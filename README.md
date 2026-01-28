@@ -1,6 +1,6 @@
 # 💳 Sistema Bancário em C#
 
-Sistema bancário em **C#** com interface interativa usando **Spectre.Console**. Permite criar contas, consultar saldo, fazer depósitos, levantamentos, pagar contas e acompanhar histórico de transações com persistência em arquivos, garantindo controle financeiro completo para cada usuário, (Sem uso de extruturas complexas ou classes)
+Sistema bancário em **C#** com interface interativa usando **Spectre.Console**. Permite criar contas, consultar saldo, fazer depósitos, levantamentos, pagar contas e acompanhar histórico de transações com persistência em arquivos, garantindo controle financeiro completo para cada usuário, (Sem uso de estruturas complexas ou classes)
 
 ---
 
