@@ -26,7 +26,7 @@ Sistema bancário em **C#** com interface interativa usando **Spectre.Console**.
 
 ## 🛠️ Tecnologias
 
-- C#  
+- C# .NET 10
 - Spectre.Console  
 
 ---
