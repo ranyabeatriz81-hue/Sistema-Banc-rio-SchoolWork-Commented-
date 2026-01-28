@@ -35,4 +35,4 @@ Sistema bancário em **C#** com interface interativa usando **Spectre.Console**.
 
 1. Clone o repositório:  
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/ranyabeatriz81-hue/Sistema-Banc-rio-SchoolWork-Commented-/blob/main/README.md>
