@@ -13,10 +13,9 @@ Sistema Bancário
 - Sair
 
 (o que eu adicionei além do que pedido)
-- Sistema de Contas (Criar nova ou usar existente) [ Aqui tive quase 100% uso de IA para fazer, mas estudei cada comando
-so não sei se entendi a 100% o que foi feito..]
-- Pagar Contas [aqui ja nem tanto usei a IA, usei mais na parte de criação de uma lista e em criar números aleatórios]
-- Calendário de Gastos [Como aqui eu quis envolver aquel opção para salvar todos os gastos, mesmo se fechar a aplicação, eu usei IA também]
+- Sistema de Contas (Criar nova ou usar existente)
+- Pagar Contas
+- Calendário de Gastos
 ************************************************************************************/
 
 namespace Variavies_LocaisGLobaisetc
@@ -1084,4 +1083,5 @@ namespace Variavies_LocaisGLobaisetc
             }
         }
     }
+
 }
